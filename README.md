@@ -9,3 +9,6 @@ There are no automated checks for this application.  Treating the application as
 - Use only RestAssured or RestEasy to test the REST interface.
 - Use only JUnit as a test harness.
 - Ensure that your tests can be executed with an appropriate goal from Maven.
+
+# To submit your test
+Either fork this repo and share the link, or submit commits to a branch.
